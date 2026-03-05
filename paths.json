@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/akashm-eds-practice/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/akashm-eds-practice/"
   ]
 }
